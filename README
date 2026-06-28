@@ -1,5 +1,5 @@
 # 1. Клонирование репозитория
-git clone https://github.com/yarn1k14/digital-agronom-yolov8.git
+git clone https://github.com/yar1k14/digital-agronom-yolov8.git
 cd digital-agronom-yolov8
 
 # 2. Установка зависимостей
@@ -9,3 +9,17 @@ pip install -r requirements.txt
 python app/app.py
 
 # 4. Открыть в браузере: http://localhost:8000
+
+--eng version
+
+# 1. Clone repository
+git clone https://github.com/yar1k14/digital-agronom-yolov8.git
+cd digital-agronom-yolov8
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run server
+python app/app.py
+
+# 4. Open in browser: http://localhost:8000
